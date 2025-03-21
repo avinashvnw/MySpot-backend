@@ -1,0 +1,5 @@
+target/
+*.class
+*.log
+.idea/ # If using IntelliJ
+*.iml # IntelliJ project files
